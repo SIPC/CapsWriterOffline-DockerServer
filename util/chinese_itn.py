@@ -104,8 +104,7 @@ num_mapper = {
 }
 
 # 中文数字对数值的映射
-value_mapper = {
-    '零': 0, 
+value_mapper = {    '零': 0, 
     '一': 1, 
     '二': 2, 
     '两': 2, 
