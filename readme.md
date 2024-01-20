@@ -1,2 +1,5 @@
 ## CapsWriterOffline-DockerServer
-CapsWriter-Offline 服务端的 Docker 版本
+### 运行
+```docker
+docker run -p 6016:6016 sipcink/capswriter-offline-server
+```
