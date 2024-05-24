@@ -8,7 +8,7 @@ docker run -p 6016:6016 sipcink/capswriter-offline-server:1.0
 version: '3'
 services:
   capswriter-offline-server:
-    image: sipc.ink/capswriter-offline-server:1.0
+    image: sipcink/capswriter-offline-server:1.0
     ports:
       - "6016:6016"
 ```
